@@ -1,5 +1,5 @@
 
-[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mmutiso)](https://github.com/mmutiso/github-readme-stats&count_private=true&show_icons=true)
+[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mmutiso)](https://github.com/mmutiso/github-readme-stats?count_private=true&show_icons=true)
 
 
 <!--
