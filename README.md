@@ -1,7 +1,7 @@
 
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mmutiso&layout=compact&show_icons=true&theme=radical)
 
-
+![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mmutiso&show_icons=true&theme=radical)
 <!--
 **mmutiso/mmutiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
